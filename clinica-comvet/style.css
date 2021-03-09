@@ -1,0 +1,16 @@
+body {
+    font-family: 'Varela Round';
+}
+
+#rodape {
+    font-family: 'VT323';
+    font-size: 20px;
+}
+
+#rodape a {
+    text-decoration: none;
+    background-color: royalblue;
+    padding: 8px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px black;
+}
